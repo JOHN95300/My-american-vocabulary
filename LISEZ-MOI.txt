@@ -1,0 +1,17 @@
+MY AMERICAN VOCABULARY 3.0 — VERSION DE TEST
+
+IMPORTANT : avant de remplacer les fichiers GitHub, exportez une sauvegarde JSON depuis la version 2.0 et conservez-la dans iCloud Drive.
+
+Fichiers à publier à la racine du dépôt GitHub Pages :
+- index.html
+- manifest.webmanifest
+- sw.js
+- icon.svg
+
+Ne supprimez PAS l'icône de l'application installée sur l'iPhone.
+La clé de stockage localStorage 'my-american-vocabulary-v1' est conservée pour préserver les fiches et les statistiques existantes sur le même appareil et la même origine GitHub Pages.
+La sauvegarde JSON est indispensable en cas de problème de stockage ou de réinstallation.
+
+Nouveautés : exemples bilingues, cartes retournables, calendrier, catégories, QCM, restauration JSON intégrale avec confirmation.
+
+À TESTER avant validation définitive : vérifier le nombre de fiches, les compteurs de statistiques, les prochaines échéances, le mode hors ligne et la sauvegarde/restauration. Les quiz QCM ne modifient pas les statistiques de répétition espacée.
